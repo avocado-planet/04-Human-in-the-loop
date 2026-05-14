@@ -1,4 +1,4 @@
-# Human-In-The-Loop Middleware 解説
+# Human-In-The-Loop Middleware について
 
 ## 概要
 
